@@ -1,1 +1,2 @@
-# PizzaForNow
+# Quick Dish
+this was the first project I did. So the way it works is that at the top of the page their is a button that says "QUICK DISH-ISION". that button will randomly generate a meal for you. If you scroll past thw picture, their are the ingredients and measurements to the right side and the instructions on the left side. If you dont have time to read the instructions, worry not because their is a button at the bottom of the page that will pull up a video so you can make the dish by watching and following along.
