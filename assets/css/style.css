@@ -21,7 +21,9 @@
     text-shadow: #EDEDED 3px 2px 0;
     position: relative;
 }
-
+ul.li.form{
+    float: right;
+}
 
 .waves-effect {
     left: 44%;

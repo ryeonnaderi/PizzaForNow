@@ -12,6 +12,14 @@ $('#start').click(function() {
 // import the api
 
 var videoURL = "";
+var URL = "https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata";
+$.ajax({
+    url: URL,
+    method: "GET"
+}).then(function(response){
+    
+
+});
 
 var queryURL = "https://www.themealdb.com/api/json/v1/1/random.php";
 $.ajax({
